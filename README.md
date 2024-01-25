@@ -28,7 +28,7 @@ The following are our variable names
 * Response
 * Recurred
 
-## ** Table of contents **
+##  Table of contents 
 * Summary Statistics
 * Testing of machine learning models
 * Permutation Importance
