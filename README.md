@@ -1,4 +1,4 @@
-# Thyroid-Machine-Learning-Analysis
+# Development of a machine learning model for predicting risk of recurrence of well-differentiated thyroid cancer
 
 Development of a machine learning model for predicting risk of recurrence of well-differentiated thyroid cancer
 
