@@ -28,10 +28,10 @@ The following are our variable names
 * Response
 * Recurred
 
-** Table of contents**
+## ** Table of contents **
 * Summary Statistics
 * Testing of machine learning models
 * Permutation Importance
   * SHAP Plot
   * LIME
-*Model construction and performance validation
+* Model construction and performance validation
